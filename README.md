@@ -1,2 +1,2 @@
-# Fighter-player-Computaci-n-gr-fica
+# Fighter player 
 Juego desarrollado en lenguaje python, utilizando librería Pygame
